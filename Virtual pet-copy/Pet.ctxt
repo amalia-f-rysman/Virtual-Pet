@@ -1,0 +1,12 @@
+#BlueJ class context
+#Tue Nov 24 16:23:36 EST 2026
+comment0.target=Pet
+comment1.params=name
+comment1.target=Pet(java.lang.String)
+comment1.text=\n Constructor for objects of class Pet\n
+comment2.target=void feedPet()
+comment2.text=\n An example of a method - replace this comment with your own\n\n @param  y  a sample parameter for a method\n @return    the sum of x and y\n
+comment3.target=void playWPet()
+comment4.target=void status()
+comment5.target=void sleep()
+numComments=6
